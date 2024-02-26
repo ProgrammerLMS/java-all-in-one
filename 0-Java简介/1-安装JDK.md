@@ -20,7 +20,7 @@ C:\Program Files\Java\jdk-21
 Path=%JAVA_HOME%\bin;<现有的其他路径>
 ```
 
-把`JAVA_HOME`的`bin`目录添加到`PATH`中是为了在任意文件夹下都可以运行`java`。打开命令提示符窗口，输入命令`java -version`，如果一切正常，你会看到如下输出（或类似内容）：
+把`JAVA_HOME`的`bin`目录添加到`PATH`中是为了在任意文件夹下都可以运行`java`。打开命令提示符窗口（CMD），输入命令`java -version`，如果一切正常，你会看到如下输出（或类似内容）：
 
 ```
 java version "1.8.0_301"

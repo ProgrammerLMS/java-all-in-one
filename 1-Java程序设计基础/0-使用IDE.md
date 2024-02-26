@@ -15,3 +15,7 @@ IDE是集成开发环境：Integrated Development Environment的缩写。
 ### IntelliJ Idea
 
 [IntelliJ Idea](https://www.jetbrains.com/idea/)是由JetBrains公司开发的一个功能强大的IDE，分为免费版和商用付费版。JetBrains公司的IDE平台也是基于IDE平台+语言插件的模式，支持Python开发环境、Ruby开发环境、PHP开发环境等，这些开发环境也分为免费版和付费版。
+
+## 2.建议
+
+推荐使用IDEA进行编写，具体的安装过程不再赘述。

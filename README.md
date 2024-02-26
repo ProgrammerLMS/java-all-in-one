@@ -25,7 +25,7 @@
 - 继承
 - 多态
 - 静态和实例
-- [抽象类和接口](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/2-Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/4-%E6%8A%BD%E8%B1%A1%E7%B1%BB%E5%92%8C%E6%8E%A5%E5%8F%A3.md) ✅
+- [抽象类和接口](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/2-Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/5-%E6%8A%BD%E8%B1%A1%E7%B1%BB%E5%92%8C%E6%8E%A5%E5%8F%A3.md) ✅
 - 包和作用域
 - classpath和jar包
 - 模块

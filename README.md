@@ -29,5 +29,5 @@
 - 包和作用域
 - [classpath和jar包](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/2-Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/7-classpath%E5%92%8Cjar%E5%8C%85.md) ✅
 - 模块
-- [语法糖]([java-all-in-one/2-Java面向对象编程/9-语法糖.md at master · ProgrammerLMS/java-all-in-one (github.com)](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/2-Java面向对象编程/9-语法糖.md)) ✅
+- [语法糖](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/2-Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/9-%E8%AF%AD%E6%B3%95%E7%B3%96.md) ✅
 

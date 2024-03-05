@@ -4,7 +4,7 @@
 
 [Java Downloads | Oracle 中国](https://www.oracle.com/cn/java/technologies/downloads/#java8-windows)
 
-在网页中选择合适的操作系统与安装包，找到Java SE 8的下载链接进行下载安装即可。Windows优先选`x64 MSI Installer`，Linux和macOS要根据自己电脑的CPU是ARM还是x86选择合适的安装包。具体的下载步骤省略;)
+在网页中选择合适的操作系统与安装包，找到Java SE 8的下载链接进行下载安装即可。Windows优先选`x64 Installer`，Linux和macOS要根据自己电脑的CPU是ARM还是x86选择合适的安装包。具体的下载步骤省略;)
 
 ## 2.设置环境变量
 
@@ -20,6 +20,8 @@ C:\Program Files\Java\jdk-21
 Path=%JAVA_HOME%\bin;<现有的其他路径>
 ```
 
+ 注意：如果是Windows10系统，要写jdk和jre的绝对路径
+
 把`JAVA_HOME`的`bin`目录添加到`PATH`中是为了在任意文件夹下都可以运行`java`。打开命令提示符窗口（CMD），输入命令`java -version`，如果一切正常，你会看到如下输出（或类似内容）：
 
 ```
@@ -28,7 +30,7 @@ Java(TM) SE Runtime Environment (build 1.8.0_301-b09)
 Java HotSpot(TM) 64-Bit Server VM (build 25.301-b09, mixed mode)
 ```
 
-具体的设置步骤省略;)
+具体的设置步骤省略;)，请参考[java环境变量配置 - 博客园](https://www.cnblogs.com/zhanghongxian666/p/11149104.html)
 
 ## 3. 安装多个版本的JDK
 

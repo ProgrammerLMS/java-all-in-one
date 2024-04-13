@@ -35,7 +35,7 @@
 ## 4.Java常用类
 
 - [String](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/3-Java%E5%B8%B8%E7%94%A8%E7%B1%BB/0-String.md)（全文共3890词） ✅
-- String衍生类
+- [String衍生类](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/3-Java%E5%B8%B8%E7%94%A8%E7%B1%BB/1-String%E8%A1%8D%E7%94%9F%E7%B1%BB.md)（全文共1333词）✅
 
 ## 5.异常处理
 

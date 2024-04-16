@@ -39,7 +39,7 @@
 
 ## 4.Java异常处理与日志
 
-- 异常与异常类（全文共1207词）✅
+- [异常与异常类](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/4-Java%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E4%B8%8E%E6%97%A5%E5%BF%97/0-%E5%BC%82%E5%B8%B8%E4%B8%8E%E5%BC%82%E5%B8%B8%E7%B1%BB.md)（全文共1207词）✅
 - 捕获异常
 
 ## 5.IO

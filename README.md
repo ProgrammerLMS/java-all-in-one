@@ -42,6 +42,8 @@
 - [异常与异常类](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/4-Java%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E4%B8%8E%E6%97%A5%E5%BF%97/0-%E5%BC%82%E5%B8%B8%E4%B8%8E%E5%BC%82%E5%B8%B8%E7%B1%BB.md)（全文共1207词）✅
 - 捕获与抛出（全文共3389词）✅
 - 自定义异常和断言（全文共1300词）✅
+- JDK日志工具（全文共898词）✅
+- 第三方日志工具（全文共2817词）✅
 
 ## 5.IO
 

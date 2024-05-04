@@ -40,10 +40,10 @@
 ## 4.Java异常处理与日志
 
 - [异常与异常类](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/4-Java%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E4%B8%8E%E6%97%A5%E5%BF%97/0-%E5%BC%82%E5%B8%B8%E4%B8%8E%E5%BC%82%E5%B8%B8%E7%B1%BB.md)（全文共1207词）✅
-- 捕获与抛出（全文共3389词）✅
-- 自定义异常和断言（全文共1300词）✅
-- JDK日志工具（全文共898词）✅
-- 第三方日志工具（全文共2817词）✅
+- [捕获与抛出](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/4-Java%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E4%B8%8E%E6%97%A5%E5%BF%97/1-%E6%8D%95%E8%8E%B7%E4%B8%8E%E6%8A%9B%E5%87%BA.md)（全文共3389词）✅
+- [自定义异常和断言](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/4-Java%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E4%B8%8E%E6%97%A5%E5%BF%97/2-%E8%87%AA%E5%AE%9A%E4%B9%89%E5%BC%82%E5%B8%B8%E5%92%8C%E6%96%AD%E8%A8%80.md)（全文共1300词）✅
+- [JDK日志工具](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/4-Java%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E4%B8%8E%E6%97%A5%E5%BF%97/4-JDK%E6%97%A5%E5%BF%97%E5%B7%A5%E5%85%B7.md)（全文共898词）✅
+- [第三方日志工具](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/4-Java%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E4%B8%8E%E6%97%A5%E5%BF%97/5-%E7%AC%AC%E4%B8%89%E6%96%B9%E6%97%A5%E5%BF%97%E5%B7%A5%E5%85%B7.md)（全文共2817词）✅
 
 ## 5.IO
 

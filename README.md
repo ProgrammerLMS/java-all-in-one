@@ -48,5 +48,6 @@
 ## 5.Java IO
 
 - [文件对象](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/5-Java%20IO/0-%E6%96%87%E4%BB%B6%E5%AF%B9%E8%B1%A1.md)（全文共1897词）✅
-- 流的简介（全文共351词）✅
-- 字节流（全文共3238词）✅
+- [流的简介](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/5-Java%20IO/1-%E6%B5%81%E7%9A%84%E7%AE%80%E4%BB%8B.md)（全文共351词）✅
+- [字节流](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/5-Java%20IO/2-%E5%AD%97%E8%8A%82%E6%B5%81.md)（全文共3238词）✅
+- [字符流](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/5-Java%20IO/3-%E5%AD%97%E7%AC%A6%E6%B5%81.md)（全文共1752词）✅

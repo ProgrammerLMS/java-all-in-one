@@ -51,3 +51,10 @@
 - [流的简介](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/5-Java%20IO/1-%E6%B5%81%E7%9A%84%E7%AE%80%E4%BB%8B.md)（全文共351词）✅
 - [字节流](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/5-Java%20IO/2-%E5%AD%97%E8%8A%82%E6%B5%81.md)（全文共3238词）✅
 - [字符流](https://github.com/ProgrammerLMS/java-all-in-one/blob/master/5-Java%20IO/3-%E5%AD%97%E7%AC%A6%E6%B5%81.md)（全文共1752词）✅
+
+## 6.函数式编程
+
+- 内部类（全文共1256词）✅
+- Lambda表达式基础（全文共1395词）✅
+- Lambda表达式的方法引用
+- Stream

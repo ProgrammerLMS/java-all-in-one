@@ -36,7 +36,7 @@ public class Main {
 Arrays.sort(array, Main::cmp);
 ```
 
-❗❗*e注意**：在这里，方法签名只看参数类型和返回类型，不看方法名称，也不看类的继承关系。
+❗❗**注意**：在这里，方法签名只看参数类型和返回类型，不看方法名称，也不看类的继承关系。
 
 ## 2.引入实例方法
 
@@ -125,7 +125,7 @@ class Person {
 
 ```
 
-后面我们会讲到`Stream`的`map()`方法。现在我们看到，这里的`map()`需要传入的FunctionalInterface的定义是：
+后面我们会讲到`Stream`的`map()`方法。现在我们看到，这里的`map()`需要传入的`FunctionalInterface`的定义是：
 
 ```java
 @FunctionalInterface
@@ -139,6 +139,8 @@ public interface Function<T, R> {
 ## 4.示例
 
 ### 4.1使用静态方法
+
+仍然使用上一节的例子，这里提供了一个HeroChecker类
 
 ```java
 import java.util.ArrayList;
@@ -259,7 +261,7 @@ public class TestLambda {
         System.out.println("Lambda表达式中调用容器中的对象的matched方法：");       
         filter(heros,h-> h.matched() );
   
-        System.out.println("引用容器中对象的方法 之过滤结果：");       
+        System.out.println("引用容器中对象的方法之过滤结果：");       
         filter(heros, Hero::matched);
     }
        
